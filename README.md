@@ -1,5 +1,3 @@
-# Vcard
 
-https://glenncarroy.github.io/Vcard/
-
-Ma première Vcard en html et CSS
+# Vcard2
+>>>>>>> 8c1b7eb1496a10e34f267223ef48e2741920bb89

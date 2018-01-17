@@ -7,10 +7,18 @@
 	color: #273440;
 }
 
+body {
+	display: flex;
+	height: 100vh;
+	width: 100vw;
+	flex-direction: column;
+	justify-content: center;
+}
+
 #container {
 	width: 25%;
-	margin: 0 auto;
-	margin-top: 200px;
+	margin: auto;
+	
 	opacity: 0.9;
 	line-height: 1.5;
 }
